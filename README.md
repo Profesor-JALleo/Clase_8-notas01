@@ -24,8 +24,6 @@ https://github.com/signup?source=login
 	- You're almost done!
 	We sent a launch code to juanantonio@lleo.net
 
-
-
 	- EJEMPLO DE REPOSITORIO:
 https://github.com/Profesor-JALleo/Clase_8-notas01/
 
@@ -36,7 +34,7 @@ https://ethereum.org/en/developers/
 https://ethereum.org/en/developers/local-environment/
 
 
-- TRUFFLE/GANACHE
+- TRUFFLE:
 https://www.trufflesuite.com/
 	- INSTALAR:
 https://trufflesuite.com/truffle/
@@ -49,3 +47,5 @@ https://trufflesuite.com/docs/truffle/
 https://trufflesuite.com/docs/truffle/quickstart.html
 
 
+- GANACHE:
+https://trufflesuite.com/ganache
