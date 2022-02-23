@@ -59,3 +59,6 @@ https://trufflesuite.com/ganache
 	- Antonio Lujan
 
 Rodrigo Arevalo
+
+
+Angel Ramos
