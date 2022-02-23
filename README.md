@@ -57,3 +57,6 @@ https://trufflesuite.com/ganache
 	- Profesor Juan Antonio
 	- @mamufe2
 	- Antonio Lujan
+	
+NOTAM - ![hippo](https://giphy.com/gifs/14uXQbPS73Y3qU)
+
