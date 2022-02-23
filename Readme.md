@@ -1,7 +1,6 @@
 # Clase_8-notas01
 Clase_8-notas01
 STACK DE DESARROLLO:
-<iframe src="https://giphy.com/embed/14uXQbPS73Y3qU" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/14uXQbPS73Y3qU">via GIPHY</a></p>
 
 - VISUAL STUDIO CODE:
 https://code.visualstudio.com/
