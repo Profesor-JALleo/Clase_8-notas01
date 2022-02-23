@@ -55,3 +55,4 @@ https://trufflesuite.com/ganache
 
 ## EQUIPO:
 Profesor Juan Antonio
+Alumno Nacho Soler
