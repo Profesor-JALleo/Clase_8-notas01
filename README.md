@@ -15,8 +15,10 @@ https://github.com/signup?source=login
 	- PASOS:
 	Enter your email
 	juanantonio@lleo.net
+	
 	Password
 	XXXXX
+	
 	USERNAME:
 	Profesor-JALleo
 	- Would you like to receive product updates and announcements via email?
