@@ -1,6 +1,7 @@
 # Clase_8-notas01
 Clase_8-notas01
 STACK DE DESARROLLO:
+
 ![rat](https://media3.giphy.com/media/14uXQbPS73Y3qU/giphy.gif)
 
 - VISUAL STUDIO CODE:
@@ -64,4 +65,7 @@ Rodrigo Arevalo
 Gordillo
 GITHUUUB
 GITHAAAB
+
+
+
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
