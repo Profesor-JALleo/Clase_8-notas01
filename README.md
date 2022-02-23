@@ -55,4 +55,4 @@ https://trufflesuite.com/ganache
 
 ## EQUIPO:
 Profesor Juan Antonio
-Maria Isabel
+Gordillo
