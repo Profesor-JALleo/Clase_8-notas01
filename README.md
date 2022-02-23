@@ -54,7 +54,6 @@ https://trufflesuite.com/ganache
 
 
 ## EQUIPO:
-Profesor Juan Antonio
-
-@mamufe2
-Antonio Lujan
+	- Profesor Juan Antonio
+	- @mamufe2
+	- Antonio Lujan
