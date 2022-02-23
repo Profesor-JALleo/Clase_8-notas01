@@ -51,3 +51,7 @@ https://trufflesuite.com/docs/truffle/quickstart.html
 
 - GANACHE:
 https://trufflesuite.com/ganache
+
+
+## EQUIPO
+Alumno Isaac Fontaneda
